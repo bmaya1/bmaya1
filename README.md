@@ -1,9 +1,8 @@
-### Hi there 👋
-
 <!--
 **bmaya1/bmaya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🎮 Random Fun Random Info ℹ️ Fun Facts
+ARt Gallery - SIGGRAPH 2019 - Studio Subcommittee - [Contributor](https://s2019.siggraph.org/conference/programs-events/studio/studio-projects/)
+Ran 3 marathons
 -->
+## About Me
+
+Hi, this is my collection of [Python scripts](https://github.com/bmaya1/python-basic-examples) — with walkthroughs on [Medium](https://medium.com/@bmayam15) — and random projects.
+
+### 🧑‍💻 Areas I've Worked In:
+![Static Badge](https://img.shields.io/badge/Detection_Engineering-blue) ![Static Badge](https://img.shields.io/badge/Insider_Threats-blue) ![Static Badge](https://img.shields.io/badge/Security_Operations_&_Automation-blue) ![Static Badge](https://img.shields.io/badge/Threat_Intellgience-blue)
+
+### 👍 Likes:
+![Static Badge](https://img.shields.io/badge/🐱_Cats-grey) ![Static Badge](https://img.shields.io/badge/🧗_Climbing-grey) ![Static Badge](https://img.shields.io/badge/🐶_Dogs-grey) ![Static Badge](https://img.shields.io/badge/🥾_Hiking-grey) ![Static Badge](https://img.shields.io/badge/📸_Photography-grey) ![Static Badge](https://img.shields.io/badge/🏃_Running-grey) ![Static Badge](https://img.shields.io/badge/🍵_Tea-grey)
+
