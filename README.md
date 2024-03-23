@@ -27,3 +27,5 @@ Hi, this is my collection of [Python scripts](https://github.com/bmaya1/python-b
 ### 👍 Likes:
 ![Static Badge](https://img.shields.io/badge/🐱_Cats-grey) ![Static Badge](https://img.shields.io/badge/🧗_Climbing-grey) ![Static Badge](https://img.shields.io/badge/🐶_Dogs-grey) ![Static Badge](https://img.shields.io/badge/🥾_Hiking-grey) ![Static Badge](https://img.shields.io/badge/📸_Photography-grey) ![Static Badge](https://img.shields.io/badge/🏃_Running-grey) ![Static Badge](https://img.shields.io/badge/🍵_Tea-grey)
 
+### ℹ️ Fun Facts:
+![Static Badge](https://img.shields.io/badge/🗣️_Spoken_Languages-English,_Spanish-blue) ![Static Badge](https://img.shields.io/badge/🏃_Marathons-3-blue)
