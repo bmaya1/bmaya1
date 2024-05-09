@@ -22,7 +22,7 @@ Ran 3 marathons
 Hi, this is my collection of random projects and [Python scripts](https://github.com/bmaya1/python-basic-examples) — with walkthroughs on [Medium](https://medium.com/@bmayam15).
 
 ### 🧑‍💻 Areas I've Worked In:
-![Static Badge](https://img.shields.io/badge/Detection_Engineering-blue) ![Static Badge](https://img.shields.io/badge/Insider_Threats-blue) ![Static Badge](https://img.shields.io/badge/Security_Operations_&_Automation-blue) ![Static Badge](https://img.shields.io/badge/Threat_Intellgience-blue)
+![Static Badge](https://img.shields.io/badge/Detection_Engineering-blue) ![Static Badge](https://img.shields.io/badge/Incident_Handling-blue) ![Static Badge](https://img.shields.io/badge/Insider_Threats-blue) ![Static Badge](https://img.shields.io/badge/SecOps_Automation-blue) ![Static Badge](https://img.shields.io/badge/Threat_Research-blue)
 
 ### 👍 Likes:
 ![Static Badge](https://img.shields.io/badge/🐱_Cats-grey) ![Static Badge](https://img.shields.io/badge/🧗_Climbing-grey) ![Static Badge](https://img.shields.io/badge/🐶_Dogs-grey) ![Static Badge](https://img.shields.io/badge/🥾_Hiking-grey) ![Static Badge](https://img.shields.io/badge/📸_Photography-grey) ![Static Badge](https://img.shields.io/badge/🏃_Running-grey) ![Static Badge](https://img.shields.io/badge/🍵_Tea-grey)
