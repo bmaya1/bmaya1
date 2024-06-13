@@ -19,7 +19,7 @@ Ran 3 marathons
 -->
 ## About Me
 
-Hi, this is my collection of random projects and [Python scripts](https://github.com/bmaya1/python-basic-examples) — with walkthroughs on [Medium](https://medium.com/@bmayam15).
+Hi, this is my collection of random projects and [Python scripts](https://github.com/bmaya1/python-basic-examples) — with walkthroughs on [Medium](https://medium.com/@bmaya1).
 
 ### 🧑‍💻 Areas I've Worked In:
 ![Static Badge](https://img.shields.io/badge/Detection_Engineering-blue) ![Static Badge](https://img.shields.io/badge/Incident_Handling-blue) ![Static Badge](https://img.shields.io/badge/Insider_Threats-blue) ![Static Badge](https://img.shields.io/badge/SecOps_Automation-blue) ![Static Badge](https://img.shields.io/badge/Threat_Research-blue)
